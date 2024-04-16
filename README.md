@@ -38,8 +38,8 @@ During the conceptual phase of software development, security is deeply integrat
   - Purpose: Ensures that only authorized entities have access to specific resources and that user sessions are securely managed to prevent unauthorized access.
 
 - Advanced Security Practices:
-- Overview: Integrate a suite of advanced security practices including cryptographic measures, error handling and logging, data protection, communication security, system configuration audits, database security, and secure file management.
-- Purpose: Addresses all layers of application and infrastructure security, providing a holistic defense against potential security threats.
+  - Overview: Integrate a suite of advanced security practices including cryptographic measures, error handling and logging, data protection, communication security, system configuration audits, database security, and secure file management.
+  - Purpose: Addresses all layers of application and infrastructure security, providing a holistic defense against potential security threats.
 
 **Initial Threat Modeling:** Threat modeling plays a pivotal role in DevSecOps by helping to detect, evaluate, and address potential threats to software systems and applications at the onset of the development phase (The GitLab Handbook, 2024). This process entails constructing a graphical depiction of the system, its assets, possible attack paths, and vulnerabilities.
 
@@ -67,7 +67,7 @@ During the conceptual phase of software development, security is deeply integrat
 
 - Repository Access Management:
   - Overview: Clearly define and enforce who can access the repository and the extent of their permissions.
-- Purpose: Ensures that only authorized personnel have access to modify, view, or manage the repository, minimizing the risk of unauthorized changes or breaches.
+  - Purpose: Ensures that only authorized personnel have access to modify, view, or manage the repository, minimizing the risk of unauthorized changes or breaches.
 
 - Dependency Management:
   - Overview: Utilize Software Bill of Materials (SBOM) inventory and Software Composition Analysis (SCA) tools to proactively identify vulnerabilities in the repository's dependencies.
