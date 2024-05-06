@@ -23,8 +23,8 @@ Long-Term Strategy and Continuous Improvement: The ultimate aim is to foster a c
   - Secure Coding Practices
   - Collaboration and Communication
   - Tool Selection and Integration
-- Training and Awareness
-  - Initial Threat Modeling & Hardening
+  - Training and Awareness
+- Initial Threat Modeling & Hardening
   - Architecture Review
   - Threat Modeling
   - Repository Hardening
