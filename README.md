@@ -28,8 +28,8 @@ Long-Term Strategy and Continuous Improvement: The ultimate aim is to foster a c
   - Architecture Review
   - Threat Modeling
   - Repository Hardening
-- Secrets Management
-  - Code Development and Review
+  - Secrets Management
+- Code Development and Review
   - Commit-CI Integration
   - Static Application Security Testing (SAST)
   - Software Composition Analysis (SCA)
